@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import React, { useEffect } from "react";
+import React from "react";
 import headshot from "@/public/headshot.jpg";
 import { motion } from "framer-motion";
 import Link from "next/link";
