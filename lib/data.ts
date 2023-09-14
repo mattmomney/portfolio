@@ -47,15 +47,15 @@ export const experiencesData = [
     location: "Windsor, ON. REMOTE",
     description:
       "I worked as a full-stack application developer for over 7 years at Alteris Group Canada. I was hired right out of college.",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(FaReact),
     date: "2015 - 2023",
   },
   {
     title: "Technical Project Manager",
     location: "Windsor, ON. REMOTE",
     description:
-      "I worked as a technical project manager for over 3 years in tandem with development overseeing the eLearning process at Alteris Group Canada.",
-    icon: React.createElement(FaReact),
+      "I worked as a technical project manager for over 3 years overseeing the eLearning process at Alteris Group Canada in tandem with development.",
+    icon: React.createElement(CgWorkAlt),
     date: "2020 - 2023",
   },
 ] as const;
