@@ -23,8 +23,8 @@ export default function About() {
         years' experience in SaaS, B2B, and eLearning through web and mobile
         applications. Working in a{" "}
         <span className="font-medium">full-stack environment</span> using the
-        latest frameworks (most recently Vue.JS, Node.JS, and Ruby) to create
-        end-to-end web solutions. Implementing{" "}
+        latest frameworks (most recently React and Golang) to create end-to-end
+        web solutions. Implementing{" "}
         <span className="font-medium">asynchronous data transfer</span> through
         REST services using Axios to communicate with the backend and
         third-party APIs. Utilizing tools like{" "}

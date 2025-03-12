@@ -58,6 +58,14 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "2020 - 2023",
   },
+  {
+    title: "Software Engineer",
+    location: "Windsor, ON. REMOTE",
+    description:
+      "Currently work as a Software Engineer at Applied Systems as the front-end lead of a generative UI project.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - Present",
+  },
 ] as const;
 
 export const projectsData = [
@@ -91,13 +99,14 @@ export const skillsData = [
   "SCSS",
   "JavaScript",
   "TypeScript",
-  "Vue",
   "React",
+  "Vue",
   "Next.js",
   "Node.js",
   "Git",
   "Tailwind",
   "Redux",
+  "Golang",
   "Ruby",
   ".NET",
   "C#",
